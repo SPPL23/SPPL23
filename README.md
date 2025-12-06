@@ -37,14 +37,14 @@
 >
 >I'm fat 😢
 ---
-## If you're one of my classmates under 3C you can join my Server on ![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg) 
+## If you're one of my classmates under 3C you can join my Server on ![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg)
 ---
 > [!CAUTION]
 > **This server is specifically above the ages of 18+**
 >
 > *It is recommended to avoid posting NSFW content*
 >
-> ![Aray Naten: Discord Server](https://img.shields.io/badge/ARAY_NATEN-Join-purple?logo=discord?style=for-the-badge)
+> [![Aray Naten: Discord Server](https://img.shields.io/badge/ARAY_NATEN-Join-purple?logo=discord?style=for-the-badge)](https://discord.gg/PhpKMptNvn)
 ---
 # My favorite Linux commands are:
  ```
