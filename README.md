@@ -46,6 +46,9 @@
 > *It is recommended to avoid posting NSFW content*
 >
 > [![Aray Naten: Discord Server](https://img.shields.io/badge/ARAY_NATEN-Join-purple?logo=discord?style=for-the-badge)](https://discord.gg/PhpKMptNvn)
+>
+> **Here's my Facebook account**
+> [![Sean FB](https://img.shields.io/badge/My-facebook-blue?style=for-the-badge)](https://www.facebook.com/SeanPatrick.Lacsina)
 ---
 # My favorite Linux commands are:
  ```
