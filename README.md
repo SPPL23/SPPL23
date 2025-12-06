@@ -37,7 +37,7 @@
 >
 >I'm fat 😢
 ---
-## If you're one of my classmates under 3C you can join my Server on ![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg)
+## If you're one of my classmates under 3C you can join my Server on [![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg)](https://discord.gg/PhpKMptNvn)
 ---
 > [!CAUTION]
 > **This server is specifically above the ages of 18+**
