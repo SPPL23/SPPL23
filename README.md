@@ -47,9 +47,10 @@
 >
 > [![Aray Naten: Discord Server](https://img.shields.io/badge/ARAY_NATEN-Join-purple?logo=discord?style=for-the-badge)](https://discord.gg/PhpKMptNvn)
 >
-> **Here's my Facebook account**
+> **My Socials**
 >
 > [![Sean FB](https://img.shields.io/badge/My-facebook-blue?style=for-the-badge)](https://www.facebook.com/SeanPatrick.Lacsina)
+> [![Sean IG](https://img.shields.io/badge/My-Instagram-E1306C?style=for-the-badge)](https://www.instagram.com/p1ercespl/)
 ---
 # My favorite Linux commands are:
  ```
