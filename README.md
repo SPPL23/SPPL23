@@ -17,7 +17,7 @@
 > 3. Stopped working to pursue a bachelor degree under I.T.
 ---
 > [!WARNING]
-> I'm lazy as *#!$[^1].
+> I'm lazy as *#!$[^1]. 🧐
 > [^1]: Unless it's something I'm genuinely interested on.
 ---
 > [!IMPORTANT]
