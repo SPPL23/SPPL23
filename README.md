@@ -29,7 +29,7 @@
 > I have a Toshiba Satellite Laptop that runs Linux, I use **Om-*archy*** *btw* 🤣
 > ![Omarchy](https://pbs.twimg.com/media/GzNYxgjaoAAm8Cm.png "Omarchy")
 >
-> I made this README file because I noticed some repositories that are officially licensed and had a fully designed README section and so I decided to study markdown which I can use for GITHUB and Discord.
+> I made this README file because I noticed some repositories that are officially licensed had a fully customized and well-designed README sections and so I decided to study markdown which I can use for GITHUB and Discord.
 ---
 > [!TIP]
 > I don't really have any passion for programming, I'm a laid back person who's chronically attached to PC games, Anime, Manga, Internet Drama, Twitch Streams.
