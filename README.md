@@ -32,7 +32,7 @@
 > I made this README file because I noticed some repositories that are officially licensed and had a fully designed README section and so I decided to study markdown which I can use for GITHUB and Discord.
 ---
 > [!TIP]
-> I don't really have any pasion for programming, I'm a laid back person who's chronically attached to PC games, Anime, Manga, Internet Drama, Twitch Streams.
+> I don't really have any passion for programming, I'm a laid back person who's chronically attached to PC games, Anime, Manga, Internet Drama, Twitch Streams.
 >
 > I know how to assemble, disassemble, format, reformat, install Operating Systems like Windows and Linux.
 >
