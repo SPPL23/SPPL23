@@ -10,7 +10,7 @@
 
 ### Some additional info:
 > 1. I'm 24 as of 2025-2026
-> 2. I worked at two call-center companies for a 8 months each.
+> 2. I worked at two call-center companies for at most or at least 8 months each.
 >   * Fiserv - outbound debit card calls
 >   + Majorel - Microsoft CSP *(Cloud Solutions Provider)*
 >   - BigScope Digital *(only a month as a Virtual Assistant, not even sure if I was a VA even.)*
