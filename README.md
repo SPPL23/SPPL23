@@ -19,8 +19,6 @@
 > [!WARNING]
 > I'm lazy as *#!$[^1]. 🧐
 > [^1]: Unless it's something I'm genuinely interested on.
-> ### List of pet peeves
-> > Test
 ---
 > [!IMPORTANT]
 > Laziness is not an excuse, but a means to create efficient solutions.
