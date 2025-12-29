@@ -1,5 +1,5 @@
 # Hi there 👋
-## This is Sean's README info
+## The name's Sean, I go by P1erce on the internet
 ### Basic info about me:
 > - I'm from the Philippines
 > - I'm studying under MCC
