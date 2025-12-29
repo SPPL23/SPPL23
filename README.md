@@ -14,11 +14,10 @@
 >   * Fiserv - outbound debit card calls
 >   + Majorel - Microsoft CSP *(Cloud Solutions Provider)*
 >   - BigScope Digital *(only a month as a Virtual Assistant, not even sure if I was a VA even.)*
-> 3. Stopped working to pursue a bachelor degree under I.T.
+> 3. Stopped working to pursue a bachelors degree under I.T.
 ---
 > [!WARNING]
-> I'm lazy as *#!$[^1]. 🧐
-> [^1]: Unless it's something I'm genuinely interested on.
+> Warning, idk.
 ---
 > [!IMPORTANT]
 > Laziness is not an excuse, but a means to create efficient solutions.
