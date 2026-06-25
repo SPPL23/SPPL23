@@ -1,5 +1,5 @@
 # Hi there 👋
-## The name's Sean, I go by P1erce on the internet
+## The name's Sean
 ### Basic info about me:
 > - I'm from the Philippines
 > - I'm studying under MCC
